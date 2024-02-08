@@ -1,7 +1,7 @@
 # Facebook-Login-page-clone
 
 
-# Lessons Learned
+## Lessons Learned
 
 Through this project I learned how to:
 
